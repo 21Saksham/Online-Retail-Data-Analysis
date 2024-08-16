@@ -1,7 +1,7 @@
 # Overview
 This project involves analyzing and visualizing data for Tata Insights and Quants (Tata iQ) using tools like Tableau and Power BI. The tasks included data cleaning, visual creation, and presenting findings based on specific questions posed by the CEO and CMO.
 
-# Tasks Breakdown
+# Task Breakdown
 ### Drafting Questions for CEO and CMO
 
 Developed quantitative and qualitative questions relevant to the CEO and CMO based on provided data.
