@@ -1,3 +1,8 @@
+# Evoastra Ventures Pvt Ltd
+![image](https://github.com/user-attachments/assets/af86c526-71ba-41e9-9cc1-7d0adc66ac3f)
+
+Data Science Internship Project [Team M]
+
 # Overview
 This project involves analyzing and visualizing data for Tata Insights and Quants (Tata iQ) using tools like Tableau and Power BI. The tasks included data cleaning, visual creation, and presenting findings based on specific questions posed by the CEO and CMO.
 
